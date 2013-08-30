@@ -32,7 +32,7 @@ $a = $list[0];   // $a = 10
 $b = $list[1];   // $b = 20
 
 isset($list[2]);   // false
-$c = $list[2];     // $c = null, and does not raise "undefinex index".
+$c = $list[2];     // $c = null, and does not raise "undefined index".
 
 
 // farray creates recursively.
